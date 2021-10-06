@@ -1,4 +1,4 @@
 # expert-engine
 
-#IDK why i am doing this!
-God help us
+Built using AWS , Lambda and Dynamo DB 
+And a pretty much time waste!!!!
